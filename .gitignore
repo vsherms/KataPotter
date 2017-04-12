@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+yarn.lock
+tmp/
+typings/
+lodash.d.ts
+npm-debug.log
+src/*.js
+test/*.js
+lodash.d._ts
+.vscode/
+dist/
+*.log
