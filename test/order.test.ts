@@ -3,7 +3,7 @@ import * as sinon from "sinon";
 import Order from "../src/order";
 
 
-describe("Order", function(){
+xdescribe("Order", function(){
   it("can create order", function(){
     let order = new Order();
     expect(typeof(order)).to.eql("object");
